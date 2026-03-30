@@ -1,3 +1,7 @@
+Name-RUDRA KUMAR SHRIVASTAVA
+REG NO.-25BCE11105
+AI & ML PROJECT
+
 # Student-Placement-Predictor
 
 # Student Placement Predictor (AI/ML Project)
